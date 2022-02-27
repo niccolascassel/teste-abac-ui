@@ -19,5 +19,8 @@
   "homepage": "https://github.com/niccolascassel/teste-abac-ui#readme",
   "dependencies": {
     "cypress": "^9.5.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.7"
   }
 }
